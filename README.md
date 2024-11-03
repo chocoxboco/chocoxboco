@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @chocoxboco
+> “I can’t promise I’ll try, but I’ll try to try.” – Bart Simpson
 
-<!---
-chocoxboco/chocoxboco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Cryptid internet creature, a lazy hard worker, with a chocolate addiction interested in automating things they don't want to do.
